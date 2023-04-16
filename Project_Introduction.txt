@@ -1,0 +1,27 @@
+                                                            Details of the Project 
+                                                            
+                                                            
+Project name is : Top_Navigation_Tab_Layout_Android
+File Names :
+
+            *   TabLayout_MainActivity.java
+            *   ChatsFragment.java
+            *   StatusFragment.java
+            *   CallsFragment.java
+            *   ViewPagerMessangerAdapter.java
+            *   activity_main.xml
+            *   fragment_chats.xml
+            *   fragment_status.xml
+            *   fragment_calls.xml
+            
+Project Details :
+
+            In this project, I have implemented the top navigation or Tab Layout.
+            
+            File named " TabLayout_MainActivity.java " : is use to apply all the methods in the main activity.
+            File named " ChatsFragment.java " : is the fragment file, use to implement an fragment.
+            File named " StatusFragment.java " : is the fragment file, use to implement an fragment.
+            File named " CallsFragment.java " : is the fragment file, use to implement an fragment.
+            File named " ViewPagerMessangerAdapter.java " :  is use to configure all the fragments with the desired properities
+            and all the remaining files are use for the desigining.
+            
